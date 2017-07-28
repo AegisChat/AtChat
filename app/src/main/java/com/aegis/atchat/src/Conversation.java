@@ -12,6 +12,7 @@ import java.util.ArrayList;
  */
 public class Conversation {
     private int ID;
+    private int foo;
     private ArrayList<Message> conversation;
 
 
